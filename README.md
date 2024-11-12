@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 Master of Data Science AI student at Saarland University<br>🤖 AI and data science enthusiast<br>🔬 I'm interested in working on trustworthy AI and time series analysis 
+🎓 Master of Data Science AI student at Saarland University<br>🤖 AI and data science enthusiast<br>🔬 I'm interested in working on trustworthy AI and time series analysis
+
+I am currently working on Sky Network telegram bot which explored a basis for getting up-to-date financial data. I expect to add the application of Large Language models and AI analysis to this bot. 
 
 
 ## 🌐 Socials:
